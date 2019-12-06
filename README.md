@@ -1,1 +1,1 @@
-# automationpractice
+# automationPractice
